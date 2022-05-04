@@ -1,7 +1,5 @@
 ## Oi! Eu sou o Nilson Deon
 
-- 📖 Atualmente estudo Ciências da Computação na Puc Minas
-- 📫 Contato: nilsondeon01@gmail.com
 <div>
   <a href="https://github.com/NilsonDeon"></a>
   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=NilsonDeon&show_icons=true&theme=merko">
