@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Nilson Deon
 
-- 📖 Atualmente estudo Ciências da Comutação na Puc Minas
+- 📖 Atualmente estudo Ciências da Computação na Puc Minas
 - 📫 Contato: nilsondeon01@gmail.com
 <div>
   <a href="https://github.com/NilsonDeon"></a>
