@@ -1,4 +1,4 @@
-## Oi! Eu sou Nilson Deon.
+## Oi! Eu sou Nilson Deon
 
 <div>
   <a href="https://github.com/NilsonDeon"></a>
